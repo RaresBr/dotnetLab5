@@ -1,0 +1,5 @@
+C:\Users\rares\source\repos\Kata Curs 4\Kata3\Domain.Persistence\bin\Debug\netcoreapp2.0\Domain.Persistence.deps.json
+C:\Users\rares\source\repos\Kata Curs 4\Kata3\Domain.Persistence\bin\Debug\netcoreapp2.0\Domain.Persistence.dll
+C:\Users\rares\source\repos\Kata Curs 4\Kata3\Domain.Persistence\obj\Debug\netcoreapp2.0\Domain.Persistence.csproj.CoreCompileInputs.cache
+C:\Users\rares\source\repos\Kata Curs 4\Kata3\Domain.Persistence\obj\Debug\netcoreapp2.0\Domain.Persistence.AssemblyInfoInputs.cache
+C:\Users\rares\source\repos\Kata Curs 4\Kata3\Domain.Persistence\obj\Debug\netcoreapp2.0\Domain.Persistence.AssemblyInfo.cs
